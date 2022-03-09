@@ -330,6 +330,7 @@
 - Spark 快速数据处理       [百度云下载链接](https://pan.baidu.com/s/1zb8FD8qj4hyW6NHIFbWjUw)  密码:xvug
 - Hadoop 权威指南       [百度云下载链接](https://pan.baidu.com/s/1dCFa1kOtOB54sx53ERE9TA)  密码:wh8m
 - Hadoop 技术内幕       [百度云下载链接](https://pan.baidu.com/s/1JdkjX2cIXsQ-Afh7LFC6-g)  密码:c945
+- 大数据入门指南       [百度云下载链接](https://pan.baidu.com/s/1lu0hEPCsiSdy8rFeqx6sWQ)  密码:tk7a
 
 # 架构
 
