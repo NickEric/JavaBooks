@@ -21,7 +21,7 @@
   - [Redis](#Redis)
   - [MongoDB](#MongoDB)
 - [05、并发编程](#并发编程)
-- [06、底层](#底层)
+- [06、JVM](#JVM)
 - [07、性能优化](#性能优化)
 - [08、设计模式](#设计模式)
 - [09、操作系统](#操作系统)
@@ -184,9 +184,9 @@
 - Java 并发编程的艺术       [百度云下载链接](https://pan.baidu.com/s/17kbudrARlSj17JzqWDuJlQ)  密码:x8b7
 - Java 多线程编程实战指南       [百度云下载链接](https://pan.baidu.com/s/1kni5irEBAE-fen2VkjKc6w)  密码:v31b
 
-# 底层
+# JVM
 
-- 深入理解 Java 虚拟机-周志明       [百度云下载链接](https://pan.baidu.com/s/1W8Z0RlzmmT0AGyjL8AZIMA)  密码:ke1i
+- 深入理解 Java 虚拟机-周志明       [百度云下载链接](https://pan.baidu.com/s/1Qr9Z2uHc6YO3NZKuG66Ejw)  密码:2qgg
 - 深入理解 Java 虚拟机总结       [百度云下载链接](https://pan.baidu.com/s/12rhEuLhv_9wXha1Ehm6Tgg)  密码:ixev
 - 深入理解 Java 内存模型       [百度云下载链接](https://pan.baidu.com/s/19LNAAX9S282D0W0tt-cbMQ)  密码:k3c6
 - 实战 Java 虚拟机 JVM 故障诊断与性能优化       [百度云下载链接](https://pan.baidu.com/s/1oOozhf6F0V9c817e59BbPQ)  密码:jzd7
@@ -330,6 +330,7 @@
 - Spark 快速数据处理       [百度云下载链接](https://pan.baidu.com/s/1zb8FD8qj4hyW6NHIFbWjUw)  密码:xvug
 - Hadoop 权威指南       [百度云下载链接](https://pan.baidu.com/s/1dCFa1kOtOB54sx53ERE9TA)  密码:wh8m
 - Hadoop 技术内幕       [百度云下载链接](https://pan.baidu.com/s/1JdkjX2cIXsQ-Afh7LFC6-g)  密码:c945
+- 大数据入门指南       [百度云下载链接](https://pan.baidu.com/s/1lu0hEPCsiSdy8rFeqx6sWQ)  密码:tk7a
 
 # 架构
 
